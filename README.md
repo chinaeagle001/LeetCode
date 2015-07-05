@@ -1,9 +1,4 @@
 # LeetCode
 My code for leetcode
 ## Add a title
-```
-int main
-{
-  int a, b;
-}
-```
+## Test creating a new branch
