@@ -18,7 +18,7 @@ to
 µÝ¹é
 #ÊµÏÖ´úÂë
 C++£º
-```
+```C++
 // Runtime: 3 ms
 /**
  * Definition for a binary tree node.
@@ -45,7 +45,7 @@ public:
 };
 ```
 Java:
-```
+```Java
 // Runtime: 238 ms
 /**
  * Definition for a binary tree node.
@@ -71,7 +71,7 @@ public class Solution {
 }
 ```
 Python:
-```
+```Python
 # Runtime: 52 ms
 # Definition for a binary tree node.
 # class TreeNode:
